@@ -7,7 +7,6 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-import warnings
 
 def agregar_fila_momentos_hu(nombre, momento, etiqueta):
     with open(nombre, "a", newline='') as csvfile:  # Modo 'a' para agregar filas
@@ -22,7 +21,6 @@ def procesar_carpeta(carpeta, archivo_csv, label):
             print("Procesando imagen: ", ruta_imagen)
             imagen = cv2.imread(ruta_imagen)
             momentos_hu = calcular_momentos_hu(imagen)
-            print(momentos_hu)
             agregar_fila_momentos_hu(archivo_csv, momentos_hu, label)
 
 def calcular_momentos_hu(imagen):
@@ -32,11 +30,9 @@ def calcular_momentos_hu(imagen):
     momentos_hu = cv2.HuMoments(momentos).flatten()
     return momentos_hu
 
-def print_hi():
-    print("Procesando imagenes ...")
 
 if __name__ == '__main__':
-    print_hi()
+    imagenes_path = os.getenv('IMAGENES_PATH', 'imagenes_numeros')
     archivo_csv = 'db.csv'
     if os.path.exists(archivo_csv):
         os.remove(archivo_csv)
@@ -51,12 +47,12 @@ if __name__ == '__main__':
     }
 
     for carpeta, etiqueta in etiquetas.items():
-        procesar_carpeta(f'imagenes_numeros/{carpeta}', archivo_csv, etiqueta)
+        procesar_carpeta(os.path.join(imagenes_path, carpeta), archivo_csv, etiqueta)
 
     data = pd.read_csv("db.csv")
     print(data.head())
 
-    features = ["MomentoHu1","MomentoHu2","MomentoHu3","MomentoHu4","MomentoHu5","MomentoHu6","MomentoHu7"]
+    features = ["MomentoHu1", "MomentoHu2", "MomentoHu3", "MomentoHu4", "MomentoHu5", "MomentoHu6", "MomentoHu7"]
     clase = ["Etiqueta"]
 
     X = data[features]
@@ -85,7 +81,6 @@ if __name__ == '__main__':
     print(class_report)
 
     joblib.dump(model, 'model/model.pkl')
-    # Guardar el scaler junto con el modelo
     joblib.dump(scaler, 'model/scaler.pkl')
 
     

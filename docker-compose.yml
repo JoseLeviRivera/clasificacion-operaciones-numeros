@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  train:
+    build: .
+    environment:
+      - IMAGENES_PATH=/home/levi/PycharmProjects/proyect_numeros/imagenes_numeros
+    volumes:
+      - .:/app
+    command: python train.py
+
+  app:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+    environment:
+      - FLASK_ENV=development
+    command: python app.py
