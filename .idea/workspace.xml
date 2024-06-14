@@ -12,6 +12,8 @@
       <change afterPath="$PROJECT_DIR$/.idea/proyect_numeros.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-12 (copia).png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-12.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-16 (copia).png" afterDir="false" />
@@ -325,6 +327,9 @@
       <change afterPath="$PROJECT_DIR$/model/model.pkl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/model/scaler.pkl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/p2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/train_model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -372,11 +377,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/graph_lib" />
+      <recent name="$PROJECT_DIR$/lib/jvm_export" />
+      <recent name="$PROJECT_DIR$/lib/contornos" />
       <recent name="$PROJECT_DIR$/imagenes_numeros/5" />
       <recent name="$PROJECT_DIR$/imagenes_numeros/2" />
-      <recent name="$PROJECT_DIR$/imagenes_numeros/4" />
-      <recent name="$PROJECT_DIR$/imagenes_numeros/1" />
-      <recent name="$PROJECT_DIR$/imagenes_numeros/6" />
     </key>
   </component>
   <component name="RunManager" selected="Python.app">

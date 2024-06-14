@@ -1,6 +1,5 @@
 import os
 import shutil
-
 from flask import Flask, request, render_template, redirect, url_for
 import cv2
 import joblib
@@ -10,6 +9,7 @@ from train_model import calcular_momentos_hu
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'static/uploads'
+app.config['OUTPUT_FOLDER'] = 'image_output'
 
 # Cargar el modelo y el scaler
 model = joblib.load('model/model.pkl')
@@ -95,7 +95,7 @@ def index():
         if file:
             filepath = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
             file.save(filepath)
-            carpeta = "image_output"
+            carpeta = app.config['OUTPUT_FOLDER']
             dividir_imagen(filepath, carpeta)
 
             lista_prediccion = []
@@ -117,10 +117,15 @@ def index():
             # Limpiar el directorio después de la clasificación
             limpiar_directorio(carpeta)
 
-            return render_template('index.html', resultado=resultado, expression=expression)
+            return render_template('index.html', resultado=resultado, expression=expression, image_url=url_for('static', filename='uploads/' + file.filename))
 
     return render_template('index.html')
 
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
+#docker build -t flask-app .
+#docker run -p 5000:5000 flask-app
+#docker-compose up --build
