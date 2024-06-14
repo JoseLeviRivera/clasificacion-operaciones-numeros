@@ -1,0 +1,10 @@
+matplotlib~=3.8.3
+numpy~=1.26.4
+opencv-python~=4.9.0.80
+scipy~=1.13.0
+pandas~=2.2.2
+scikit-learn~=1.4.2
+sklearn-porter
+m2cgen
+sympy
+Flask

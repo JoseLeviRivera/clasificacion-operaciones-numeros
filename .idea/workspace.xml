@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6bc24d2-d620-418a-88e8-cd8146bc326b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/proyect_numeros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-12 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-16 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-19 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-23 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-27 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-30 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-34 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-38 (copia) (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-38 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-38 (otra copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-46-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-47-01 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-05-30 12-47-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/Captura desde 2024-06-04 10-33-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/caracter_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/+/caracter_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-47-42 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-47-42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-47-45 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-47-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-47-50 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-47-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-47-53 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-47-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-47-58 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-47-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-48-02 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-48-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-48-05 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-48-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-48-10 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-48-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-48-13 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-48-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-48-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/-/Captura desde 2024-05-30 12-48-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-42-53 (copia) (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-42-53 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-42-53 (otra copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-42-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-42-57 (copia) (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-42-57 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-42-57 (otra copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-42-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-43-01 (copia) (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-43-01 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-43-01 (otra copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-43-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-43-04 (3ª copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-43-04 (4ª copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-43-04 (copia) (copia) (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-43-04 (copia) (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-43-04 (copia) (otra copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-43-04 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-43-04 (otra copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/0/Captura desde 2024-05-30 12-43-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-26-40 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-26-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-26-45 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-26-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-26-49 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-26-49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-26-54 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-26-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-26-58 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-26-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-27-03 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-27-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-27-07 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-27-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-27-11 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-27-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-27-17 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-27-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-27-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-05-30 12-27-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-06-04 10-33-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/1/Captura desde 2024-06-04 10-34-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-06 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-12 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-21 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-26 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-32 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-36 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-41 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-57 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-28-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-29-08 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-29-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-29-17 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-05-30 12-29-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/Captura desde 2024-06-04 10-34-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/caracter_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/caracter_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/2/caracter_4a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-31-31 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-31-31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-31-37 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-31-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-31-41 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-31-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-31-45 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-31-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-31-53 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-31-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-32-00 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-32-00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-32-06 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-32-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-32-14 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-32-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-32-27 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-32-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-32-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-05-30 12-32-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/Captura desde 2024-06-04 10-34-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/caracter_5a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/3/caracter_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-34-26 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-34-26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-34-39 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-34-39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-34-46 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-34-46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-34-53 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-34-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-35-01 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-35-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-35-06 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-35-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-35-11 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-35-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-35-17 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-35-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-35-25 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-35-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-35-30 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-05-30 12-35-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/4/Captura desde 2024-06-04 10-34-52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-11 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-18 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-24 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-30 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-36 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-43 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-54 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-36-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-37-01 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-37-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-37-17 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-37-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-37-24 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-05-30 12-37-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-06-04 10-34-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/Captura desde 2024-06-04 10-35-00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/5/caracter_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-09 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-14 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-21 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-27 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-33 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-38 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-41 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-44 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-48 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-05-30 12-38-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/Captura desde 2024-06-04 10-34-26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/6/caracter_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-21-38 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-21-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-23-24 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-23-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-25-08 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-25-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-25-25 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-25-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-25-37 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-25-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-25-43 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-25-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-25-50 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-25-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-25-58 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-25-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-52-59 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-52-59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-53-19 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-05-30 12-53-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/Captura desde 2024-06-04 10-33-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/7/caracter_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-39-39 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-39-39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-39-44 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-39-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-39-48 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-39-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-39-53 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-39-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-39-57 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-39-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-40-00 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-40-00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-40-06 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-40-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-40-12 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-40-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-40-15 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-40-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-40-17 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-05-30 12-40-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/8/Captura desde 2024-06-04 10-34-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-41-38 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-41-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-41-42 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-41-42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-41-46 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-41-46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-41-50 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-41-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-41-54 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-41-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-41-58 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-41-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-42-01 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-42-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-42-04 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-42-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-42-07 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-42-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-42-11 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-05-30 12-42-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/Captura desde 2024-06-04 10-33-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/9/caracter_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-25 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-30 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-34 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-40 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-43 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-46 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-54 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-59 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-49-59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/Captura desde 2024-05-30 12-50-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/div/caracter_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-43-58 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-43-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-03 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-06 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-09 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-13 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-16 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-19 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-22 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-28 (copia) (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-28 (copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-28 (otra copia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/Captura desde 2024-05-30 12-44-28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/caracter_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_numeros/mult/caracter_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/contornos/contorn_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/graph_lib/graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jvm_export/jvm_export_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/scaler.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_model.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hCi7euYkUa4ehIPl7qTQ0218WG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Run",
+    "Python.contorn_util.executor": "Run",
+    "Python.graph.executor": "Run",
+    "Python.jvm_export_lib.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.train_model.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/levi/PycharmProjects/proyect_numeros/test"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/image_test" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imagenes_numeros/5" />
+      <recent name="$PROJECT_DIR$/imagenes_numeros/2" />
+      <recent name="$PROJECT_DIR$/imagenes_numeros/4" />
+      <recent name="$PROJECT_DIR$/imagenes_numeros/1" />
+      <recent name="$PROJECT_DIR$/imagenes_numeros/6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proyect_numeros" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="contorn_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proyect_numeros" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/contornos/contorn_util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proyect_numeros" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/graph_lib/graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jvm_export_lib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proyect_numeros" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/jvm_export/jvm_export_lib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="proyect_numeros" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_model" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="proyect_numeros" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.graph" />
+        <item itemvalue="Python.contorn_util" />
+        <item itemvalue="Python.jvm_export_lib" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6bc24d2-d620-418a-88e8-cd8146bc326b" name="Changes" comment="" />
+      <created>1717104293603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717104293603</updated>
+    </task>
+    <servers />
+  </component>
+</project>
